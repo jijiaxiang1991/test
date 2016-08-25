@@ -6,6 +6,7 @@ public class test {
 		System.out.println("hello");
 		System.out.println("v2");
 		System.out.println("v1");
-		system.out.println("123");
+		System.out.println("123");
+		System.out.println("aaa");
 	}
 }
